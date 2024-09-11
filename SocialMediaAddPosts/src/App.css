@@ -1,0 +1,5 @@
+.containerparent{ display: flex;}
+.sidebar{height: 800px;
+width : 200px}
+.header{ width:100%}
+.footer{ width:100%}
